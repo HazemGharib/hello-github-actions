@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "Yo, My name is $INPUT_MY_NAME"
+sh -c "echo Yo, my name is $INPUT_MY_NAME"
